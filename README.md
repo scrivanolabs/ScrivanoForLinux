@@ -1,6 +1,8 @@
 # Scrivano For Linux
 Scrivano is a notetaking application for handwritten notes. This repository contains the Linux builds for the application. The Windows version can be downloaded from the [Microsoft Store](https://www.microsoft.com/store/apps/9MWCLGJ5XCBS?cid=github_linux).
 
+NOTE: Please note that Scrivano is not open source and this repository only contains the binary releases for the Linux version.
+
 ![screenshot_scrivano](https://user-images.githubusercontent.com/99536232/159079138-6959fc85-1c83-4507-890f-73a4bdfb4937.jpeg)
 
 
