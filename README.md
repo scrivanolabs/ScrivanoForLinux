@@ -16,3 +16,4 @@ Here is a summary of the most important features:
 - **Insert images**: paste or drag and drop any image on the canvas to unleash your creativity!
 - **Offline saving**: save your notes anywhere on your main drive, so you can manage them however you please.
 - **Laser**: Scrivano offers a special laser tool to quickly draw over your notes. Incredibly useful when sharing your screen or presenting something!
+- **PDF annotation**: you can import multiple PDF files and write over them with the built in inking tools
