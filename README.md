@@ -4,9 +4,11 @@ You can also download the app from Flathub by clicking the button below:
 
 [<img src="https://flathub.org/assets/badges/flathub-badge-en.svg" width="400" height="200">](https://flathub.org/apps/details/com.github.scrivanolabs.scrivano)
 
+**NOTE**: The flatpak version of the app runs in a sandbox environment and it can only read/write files from these folders: xdg-desktop, xdg-documents, xdg-download and xdg-pictures. If you want to circumvent this for more freedom, you can use [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) to override these restrictions.
+
 The Windows version can be downloaded from the [Microsoft Store](https://www.microsoft.com/store/apps/9MWCLGJ5XCBS?cid=github_linux). Any feedback about the Linux version is very welcome.
 
-NOTE: Please note that Scrivano is not open source and this repository only contains the binary releases for the Linux version.
+Please note that Scrivano is not open source and this repository only contains the binary releases for the Linux version.
 
 ![screenshot_scrivano](https://scrivanolabs.github.io/assets/mainscreenshot.png)
 
