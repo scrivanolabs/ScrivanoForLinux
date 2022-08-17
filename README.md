@@ -1,5 +1,5 @@
 # [Scrivano For Linux](https://scrivanolabs.github.io)
-<p align="center"><img src="https://raw.githubusercontent.com/scrivanolabs/scrivanolabs.github.io/main/icon.svg"/></p>
+<p align="center"><img width="400" src="https://raw.githubusercontent.com/scrivanolabs/scrivanolabs.github.io/main/icon.svg"/></p>
 Scrivano is a notetaking application for handwritten notes. This repository contains the Linux builds for the application.
 You can also download the app from Flathub by clicking the button below:
 
