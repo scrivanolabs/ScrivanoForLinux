@@ -2,7 +2,7 @@
 Scrivano is a notetaking application for handwritten notes. This repository contains the Linux builds for the application.
 You can also download the app from Flathub by clicking the button below:
 
-[<img src="https://flathub.org/assets/badges/flathub-badge-en.svg" width="400" height="200">](https://flathub.org/apps/details/com.github.scrivanolabs.scrivano)
+[<img align="center" src="https://flathub.org/assets/badges/flathub-badge-en.svg" width="400" height="200">](https://flathub.org/apps/details/com.github.scrivanolabs.scrivano)
 
 **NOTE**: The flatpak version of the app runs in a sandbox environment and it can only read/write files from these folders: xdg-desktop, xdg-documents, xdg-download and xdg-pictures. If you want to circumvent this for more freedom, you can use [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) to override these restrictions.
 
