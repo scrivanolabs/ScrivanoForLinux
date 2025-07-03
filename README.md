@@ -8,7 +8,7 @@ You can also download the app from Flathub by clicking the button below:
     <img
       src="https://flathub.org/assets/badges/flathub-badge-en.svg"
       width="300"
-      height="200"
+      height="100"
       alt="Get Scrivano on Flathub"
     />
   </a>
