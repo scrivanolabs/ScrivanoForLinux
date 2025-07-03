@@ -3,7 +3,7 @@
 Scrivano is a notetaking application for handwritten notes. This repository contains the Linux builds for the application.
 You can also download the app from Flathub by clicking the button below:
 
-<p align="center">
+<p align="center" style="margin-top: 2em;">
   <a href="https://flathub.org/apps/details/com.github.scrivanolabs.scrivano">
     <img
       src="https://flathub.org/assets/badges/flathub-badge-en.svg"
